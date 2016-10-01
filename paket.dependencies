@@ -1,0 +1,5 @@
+source https://nuget.org/api/v2
+
+nuget NUnit ~> 2.0
+
+github forki/FsUnit FsUnit.fs
